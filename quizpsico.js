@@ -138,7 +138,7 @@ const homeButton = document.getElementById('home-button-fixed');
 
 
 homeButton.addEventListener('click', () => {
-    window.location.href = "home2.html"; 
+    window.location.href = "index.html"; 
 });
 
 function loadQuestion() {
