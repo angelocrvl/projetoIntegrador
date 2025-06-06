@@ -99,12 +99,8 @@ ul {
 
 
 @media (max-width: 820px) {
-
-    body{
-        overflow-y: auto;
-    }
-    
     section#pai {
+        overflow: scroll;
         flex-direction: column;
         height: auto;
         width: 95%;
