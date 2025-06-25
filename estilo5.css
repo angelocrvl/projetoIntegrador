@@ -115,7 +115,7 @@ main {
     width: 100%;
     max-width: 1000px;
     height: 100%;
-    margin: 10px;
+    margin: auto;
 
     border-radius: 16px;
 
@@ -190,4 +190,7 @@ li {
 section{
     font-size: large;
 }
+}
+main{
+    margin: 10px;
 }
